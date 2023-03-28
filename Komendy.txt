@@ -1,0 +1,5 @@
+Zadanie - instalacja i uruchamianie pakietów
+- zainstalowanie html-validate komendą npm install --save-dev html-validate
+Utworzyła katalog .htmlvalidate.json komendą touch .htmlvalidate.json
+Otworzyłam go i wkleiłam tekst regulujący walidacje
+Komenda uruchamiająca to npm exec html-validate index.html
