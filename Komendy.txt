@@ -3,3 +3,4 @@ Zadanie - instalacja i uruchamianie pakietów
 Utworzyła katalog .htmlvalidate.json komendą touch .htmlvalidate.json
 Otworzyłam go i wkleiłam tekst regulujący walidacje
 Komenda uruchamiająca to npm exec html-validate index.html
+ads
