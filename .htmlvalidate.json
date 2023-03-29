@@ -1,15 +1,13 @@
 {
-  "root": true,
-  "extends": [
-  "html-validate:recommended"
-  ],
-
-  "rules": {
-  "some-rules": "error"
-  },
-
-  
-  "elements": [
-  "html5"
-  ]
+    "root":true,
+    "extends":[
+       "html-validate:recommended",
+        "html-validate:standard"
+    ],
+    "rules":{
+            "close-attr": "error"
+        },
+    "elements": [
+        "html5"
+    ]
 }
